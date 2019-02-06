@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Used to submit bugs
-title: ''
+title: my title
 labels: bug
-assignees: ''
+assignees: electricg
 
 ---
 
