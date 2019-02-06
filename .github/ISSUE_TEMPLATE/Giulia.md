@@ -2,7 +2,7 @@
 name: Bug report
 about: Used to submit bugs
 title: my title
-labels: "Bug \U0001F41B, bug"
+labels: Bug, bug
 assignees: electricg
 ---
 
