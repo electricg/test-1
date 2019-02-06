@@ -1,5 +1,18 @@
-## Description
+---
+name: Bug report
+about: Used to submit bugs
+title: ''
+labels: "Bug \U0001F41B"
+assignees: ''
 
-## Requested/Reported By
-derply
-- [ ] 
+---
+
+## Describe the bug
+A clear and concise description of what the bug is.
+
+## Steps to Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
