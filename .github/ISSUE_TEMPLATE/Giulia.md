@@ -2,8 +2,9 @@
 name: Bug report
 about: Used to submit bugs
 title: my title
-labels: duplicate, bug
+labels: "bug, duplicate, Bug \U0001F41B"
 assignees: electricg
+
 ---
 
 # xxx
