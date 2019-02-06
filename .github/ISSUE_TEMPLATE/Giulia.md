@@ -2,7 +2,7 @@
 name: Bug report
 about: Used to submit bugs
 title: my title
-labels: duplicate
+labels: duplicate, bug
 assignees: electricg
 ---
 
