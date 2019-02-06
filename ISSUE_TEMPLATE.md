@@ -4,7 +4,6 @@ about: Used to submit bugs
 title: my title
 labels: bug
 assignees: electricg
-
 ---
 
 ## Describe the bug
