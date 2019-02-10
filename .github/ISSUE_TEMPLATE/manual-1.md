@@ -1,5 +1,5 @@
 ---
-nade: name
+name: name
 about: about
 ---
 
