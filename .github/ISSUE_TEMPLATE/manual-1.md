@@ -1,13 +1,4 @@
 
----
-name: Title with double quotes manual1
-about: "About with emoji \U0001F1E8\U0001F1E6"
-title: '"Issue title with emoji"'
-labels: "Bug \U0001F41B, bug, duplicate"
-assignees: electricg
-
----
-
 # Description with emoji
 A clear and concise description of what the bug is.
 🤔
