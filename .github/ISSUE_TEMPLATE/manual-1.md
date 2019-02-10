@@ -1,3 +1,4 @@
+
 ---
 name: Title with double quotes manual1
 about: "About with emoji \U0001F1E8\U0001F1E6"
