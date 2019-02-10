@@ -1,5 +1,6 @@
 ---
-label: bug
+nade: name
+about: about
 ---
 
 # Description with emoji
