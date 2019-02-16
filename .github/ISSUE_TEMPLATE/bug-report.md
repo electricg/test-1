@@ -1,4 +1,3 @@
-
 ---
 name: Lorem ipsum
 about: this is it
