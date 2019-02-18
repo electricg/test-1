@@ -1,7 +1,7 @@
 ---
 name: Lorem ipsum
 about: this is it
-title: 22
+title: xx
 labels: bug,duplicate,with colon,invalid,bug,giulia,space
 assignees: electricg
 
