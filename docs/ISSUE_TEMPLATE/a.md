@@ -1,11 +1,11 @@
 ---    
-name: a name
-about: a about
-title: a title
+name: a docs name
+about: a docs about
+title: a docs title
 labels: bug, duplicate
 assignees: electricg
 ---   
 
-# a template
+# a docs template
 
-a a a
+a a a docs
