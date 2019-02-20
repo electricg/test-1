@@ -1,5 +1,5 @@
 ---
-name: issue_template.md name
+
 about: issue_template.md about
 title: issue_template.md title
 labels: bug, duplicate
