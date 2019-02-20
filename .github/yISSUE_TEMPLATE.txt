@@ -1,0 +1,11 @@
+---
+name: .github ISSUE_TEMPLATE.txt name
+about: .github ISSUE_TEMPLATE.txt about
+title: .github ISSUE_TEMPLATE.txt title
+labels: bug, duplicate
+assignees: electricg
+---
+
+# .github ISSUE_TEMPLATE.txt 
+
+.github ISSUE_TEMPLATE.txt 

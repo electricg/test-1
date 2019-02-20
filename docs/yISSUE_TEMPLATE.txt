@@ -1,0 +1,11 @@
+---
+name: docs ISSUE_TEMPLATE.txt name
+about: docs ISSUE_TEMPLATE.txt about
+title: docs ISSUE_TEMPLATE.txt title
+labels: bug, duplicate
+assignees: electricg
+---
+
+# docs ISSUE_TEMPLATE.txt 
+
+docs ISSUE_TEMPLATE.txt 
