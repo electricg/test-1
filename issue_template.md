@@ -2,4 +2,4 @@
 test: lorem
 test1:ipsum
 ---
-body
+body 1
