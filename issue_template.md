@@ -1,4 +1,4 @@
----yaml
+---YAML
 test: lorem
 test1:ipsum
 ---
