@@ -1,6 +1,5 @@
 ---
-test: lorem
----
+test: lorem---
 test1:ipsum
 ---
 ok
