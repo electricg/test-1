@@ -1,6 +1,6 @@
 ---
 test: lorem---
-test1: ipsum
+test1:ipsum
 
 ---
 
