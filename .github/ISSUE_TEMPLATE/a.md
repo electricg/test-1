@@ -1,5 +1,5 @@
 ---
-test: lorem
-test1: ipsum
+name: lorem
+about: ipsum
 ---
 body
