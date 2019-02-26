@@ -2,14 +2,9 @@
 name: lorem
 about: ipsum
 title: ''
-labels: "duplicate, Bug \U0001F41B"
+labels: "Bug \U0001F41B, duplicate"
 assignees: electricg
 
 ---
-   
 
- 
- body
-
-
-
+body

@@ -2,11 +2,9 @@
 name: abc name
 about: def about
 title: ''
-labels: "duplicate, Bug \U0001F41B"
+labels: "duplicate, \U0001F1E8\U0001F1E6canada"
 assignees: electricg
 
 ---
-
-
 
 body
