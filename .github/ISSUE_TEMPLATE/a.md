@@ -1,4 +1,4 @@
----
+ ---
 name: lorem
 about: ipsum
 title: ''
