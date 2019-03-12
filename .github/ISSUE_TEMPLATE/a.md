@@ -1,6 +1,6 @@
 ---         
-name: true
-about: true
+name: false
+about: ciao
 title: true
 labels: '123, 43380'
 assignees: electricg
