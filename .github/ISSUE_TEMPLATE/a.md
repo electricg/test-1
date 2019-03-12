@@ -1,6 +1,6 @@
 ---         
 name: lorem
-about: '   '
+about: ' ciao'
 title: {}
 labels: '123, 43380'
 assignees: electricg
