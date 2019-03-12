@@ -1,7 +1,7 @@
 ---         
 name: lorem
 about: [,2,3]
-title: [123, 456]
+title: {}
 labels: '123, 43380'
 assignees: electricg
 
