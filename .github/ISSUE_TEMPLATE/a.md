@@ -1,7 +1,7 @@
 ---         
 name: true
-about: ciao
-title: null
+about: true
+title: true
 labels: '123, 43380'
 assignees: electricg
 
