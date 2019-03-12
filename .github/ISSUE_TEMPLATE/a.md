@@ -1,5 +1,5 @@
 ---         
-name: ''
+name: 0
 about: ciao
 title: true
 labels: '123, 43380'
