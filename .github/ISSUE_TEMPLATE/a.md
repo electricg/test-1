@@ -1,5 +1,5 @@
 ---         
-name: NaN
+name: 0
 about: ciao
 title: [1,2,3]
 labels: '123, 43380'
