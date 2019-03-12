@@ -2,7 +2,7 @@
 name: lorem
 about: ipsum
 title: ''
-labels: []
+labels: [123]
 assignees: electricg
 
 ---         
