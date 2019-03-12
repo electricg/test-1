@@ -1,5 +1,5 @@
 ---         
-name: [1,,3]
+name: [,2,3]
 about: ciao
 title: true
 labels: '123, 43380'
