@@ -1,8 +1,8 @@
 ---         
 name: lorem
 about: ipsum
-title: 12:30
-labels: [123, 456]
+title: [123, 456]
+labels: 123
 assignees: electricg
 
 ---         
