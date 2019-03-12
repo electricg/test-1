@@ -1,6 +1,6 @@
 ---         
 name: lorem
-about: [1,23]
+about: [1,23,]
 title: [123, 456]
 labels: '123, 43380'
 assignees: electricg
