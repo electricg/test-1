@@ -1,7 +1,7 @@
 ---         
-name: [,2,3]
+name: [1,2,3]
 about: ciao
-title: true
+title: [1,2,3]
 labels: '123, 43380'
 assignees: electricg
 
