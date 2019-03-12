@@ -1,6 +1,6 @@
 ---         
 name: undefined
-about: undefined
+about: ciao
 title: null
 labels: '123, 43380'
 assignees: electricg
