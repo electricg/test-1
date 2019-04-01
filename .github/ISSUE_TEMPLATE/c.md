@@ -1,5 +1,5 @@
 ---         
-name: Default Templatex
+name: Default Template
 about: describe
 title: title
 labels: '123, 43380'
